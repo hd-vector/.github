@@ -1,1 +1,1 @@
-# hd-vector
+# huaweicloud-mate
